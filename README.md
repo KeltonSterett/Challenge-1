@@ -10,4 +10,4 @@
 
 ## Link to Screen Shot and Deployed App
 1. Deployed app link: https://keltonsterett.github.io/Challenge-1/
-2. Screen Shot link: ![Screenshot_20230223_112609](https://user-images.githubusercontent.com/124960295/221110983-11160fc2-1848-4d1e-853b-fd556593c4f2.png)
+2. Screen Shot: ![Screenshot_20230223_112609](https://user-images.githubusercontent.com/124960295/221110983-11160fc2-1848-4d1e-853b-fd556593c4f2.png)
